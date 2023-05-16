@@ -8,7 +8,7 @@
 
 ### Demo
 
-[![asciicast](https://asciinema.org/a/583667.svg)](https://asciinema.org/a/583667)
+https://asciinema.org/a/YIko5Oz7pkCuw3xOsXEigm2rp
 
 #### Minikube
 
